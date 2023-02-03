@@ -214,7 +214,6 @@ a:hover{
 }
 
 .imgInst{
-    background-color: rgba(105, 105, 105, 0.342);
     display: flex;
     justify-content: center;
     width: auto;
